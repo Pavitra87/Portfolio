@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ae9a065b.css",
+    "main.js": "/Portfolio/static/js/main.f28ec7dc.js",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.56c9d02ce3c0782dfbc5.jpg",
+    "static/media/internship.jpg": "/Portfolio/static/media/internship.7c75351f14871183bcd7.jpg",
+    "static/media/react.jpg": "/Portfolio/static/media/react.ecf62f43f09d39301e70.jpg",
+    "static/media/Pavitra.pdf": "/Portfolio/static/media/Pavitra.7f7de218549daa74927c.pdf",
+    "static/media/mern-img.png": "/Portfolio/static/media/mern-img.2458bd4351b1dc18518d.png",
+    "index.html": "/Portfolio/index.html",
+    "main.ae9a065b.css.map": "/Portfolio/static/css/main.ae9a065b.css.map",
+    "main.f28ec7dc.js.map": "/Portfolio/static/js/main.f28ec7dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae9a065b.css",
+    "static/js/main.f28ec7dc.js"
+  ]
+}
